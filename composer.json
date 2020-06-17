@@ -1,0 +1,23 @@
+{
+    "name": "seankndy/vetro-api-php",
+    "description": "VETRO FiberMap PHP API client",
+    "authors": [
+        {
+            "name": "Sean Kennedy",
+            "email": "sean@kndy.net"
+        }
+    ],
+    "keywords": [
+        "vetro",
+        "fiber"
+    ],
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "SeanKndy\\VetroApi\\": "src/"
+        }
+    }
+}
