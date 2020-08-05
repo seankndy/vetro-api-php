@@ -1,6 +1,6 @@
 {
     "name": "seankndy/vetro-api-php",
-    "description": "VETRO FiberMap PHP API client",
+    "description": "Simple PHP API client wrapper for VETRO FiberMap",
     "authors": [
         {
             "name": "Sean Kennedy",
